@@ -12,7 +12,7 @@
 }
 .cover__link:before {
     content: "";
-    background-image: url(../../../images/__background.jpg);
+    background-image: url(../../../images/cover-trains.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
