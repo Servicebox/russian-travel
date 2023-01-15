@@ -1,0 +1,18 @@
+@font-face{
+    src: url('inter-Regular.woff2') format('woff2');
+    src: url( 'inter-Regular.woff') format('woff');
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+@font-face{
+    src:url('inter-Bold.woff2') format('woff2');
+    src: url('inter-Bold.woff') format('woff');
+    font-family: 'inter';
+    font-style:normal;
+    font-weight: 900;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
