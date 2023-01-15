@@ -8,6 +8,8 @@
     text-decoration: none;
     color: white;
 }
+
+
 .footer__link:hover{
     transition: opacity 0.3s ease;
 }
